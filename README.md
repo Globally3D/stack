@@ -9,6 +9,7 @@ Updated on __March 26, 2021__
 #### [NETLIFY](https://www.netlify.com)
 #### [CLOUDFLARE](https://www.cloudflare.com)
 #### [IMGIX](https://www.imgix.com)
+#### [AMAZON S3](https://aws.amazon.com/s3/)
 #### [AMAZON REKOGNITION](https://aws.amazon.com/rekognition/)
 #### [HCAPTCHA](https://www.hcaptcha.com)
 
