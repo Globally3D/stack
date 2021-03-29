@@ -6,8 +6,8 @@ Updated on __March 29, 2021__
 ## Software as a Service
 
 #### [ALGOLIA](https://www.algolia.com)
-#### [AMAZON S3](https://aws.amazon.com/s3/)
 #### [AMAZON REKOGNITION](https://aws.amazon.com/rekognition/)
+#### [AMAZON S3](https://aws.amazon.com/s3/)
 #### [CLOUDINARY](https://cloudinary.com)
 #### [CLOUDFLARE](https://www.cloudflare.com)
 #### [HCAPTCHA](https://www.hcaptcha.com)
